@@ -1,6 +1,6 @@
 ## Welcome to Jis Joy's GitHub Page
 
-# Header1 Personal Information
+# Personal Information
 
 Student #: S3851987
 
