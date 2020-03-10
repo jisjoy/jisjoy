@@ -1,5 +1,22 @@
 ## Welcome to Jis Joy's GitHub Page
 
+# Header1 Personal Information
+
+Student #: S3851987
+
+Email address: s3851987@student.rmit.edu.au
+
+GitHub Page - https://jisjoy.github.io/jisjoy/
+
+My Name is Jis Joy, I have been working in IT industry since 2001.But I don’t have any Kind of certifications. Currently I have been working as System Analyst
+
+The reason being to join the course to get a bachelor certification & I wanted to be a techno functional person in my carrier. So that I can develop multiple type of reporting software’s or online portals.
+
+Interest in IT
+
+An IT Strategist with comprehensive experience in Strategic ERP/CRM Planning, Information Systems Management, IT Infrastructure Deployment. Founded on a solid functional grounding in Business Systems & System Administration followed by senior IT roles and Implementation assignments across a range of Retail, Distribution & Manufacture industries.
+
+
 You can use the [editor on GitHub](https://github.com/jisjoy/jisjoy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
